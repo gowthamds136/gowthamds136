@@ -49,7 +49,6 @@ Apart from my research on Artificial intelligence , I enjoy listening music 🎧
 <code><img height="40" src="https://github.com/aniruddhachoudhury/Credit-Risk-Model/blob/master/hM6lnfw8_400x400.jpg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/aniruddhachoudhury/Credit-Risk-Model/master/AirflowLogo.png"></code>
 
-
 **Practiced Projects in GitHub**
 --------------------------------
 Regression Problems
@@ -73,7 +72,7 @@ Internship Projects
 
 **My Digital Garden 🌱** [give some ♥]
 --------------------------------------------
-- I write regular in ⚡️ Techinical Bloggers @ [iNeuronBlog](https://inblog.in/) and [Medium](https://medium.com/). 
+- I write regular in ⚡️ Techinical Bloggers @ [<code><img height="10" src="https://cdn.inblog.in/user/assets/img/logo.png"></code>](https://inblog.in/) and [<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg"></code>](https://medium.com/)
 - I write and post about things I am familiar with, and things that I am learning @ [Linkedin](https://www.linkedin.com/in/gowtham-murali-m-9a798a22b/). 
 
 
