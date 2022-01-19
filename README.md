@@ -3,7 +3,7 @@ Hey 👋, I’m **Gowtham Murali** (Data Science aspirant with python) !
 <a href="https://github.com/gowthamds136">
 <img align="left" alt="Gowtham Murali's GitHub" width="22px" src="http://cdn.onlinewebfonts.com/svg/img_326384.png" />
 </a>
-<a href="https://www.linkedin.com/in/gowtham-miryala-1b6aa826/">
+<a href="https://www.linkedin.com/in/gowtham-murali-m-9a798a22b/">
 <img align="left" alt="Gowtham Murali's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/gowthamds136/">
@@ -73,13 +73,13 @@ Internship Projects
 **My Digital Garden 🌱** [give some ♥]
 --------------------------------------------
 - I write regular in ⚡️ Techinical Bloggers @ [<code><img height="10" src="https://cdn.inblog.in/user/assets/img/logo.png"></code>](https://inblog.in/) and [<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg"></code>](https://medium.com/)
-- I write and post about things I am familiar with, and things that I am learning @ [Linkedin](https://www.linkedin.com/in/gowtham-murali-m-9a798a22b/). 
+- I write and post about things I am familiar with, and things that I am learning @ [<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"></code>](https://www.linkedin.com/in/gowtham-murali-m-9a798a22b/). 
 
 
 **Contact me for Project Support | Solution** ↴ 
 -----------------------------------------------
-- Gmail : [Gowtham Murali](gowthamds136@gmail.com)
-- Linkedin : [Gowtham Murali](https://www.linkedin.com/in/gowtham-murali-m-9a798a22b/)
+- Gmail [<code><img height="20" src="https://image.similarpng.com/thumbnail/2020/12/Gmail-logo-design-on-transparent-background-PNG.png"></code>](gowthamds136@gmail.com)
+- LinkedIn [<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"></code>](https://www.linkedin.com/in/gowtham-murali-m-9a798a22b/)
 
 📕 My Latest:
 =============
