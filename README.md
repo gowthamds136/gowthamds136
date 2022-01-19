@@ -29,7 +29,7 @@ Apart from my research on Artificial intelligence , I enjoy listening music 🎧
 ------------------------------------------
 - 🥇 Former Data Scientist 🙍🏽‍♂ from iNeuron
 - 🎓 Contributor of [inblog](https://inblog.in/) community 👨🏽‍💼
-- 👀 I’m interested in developing a AI product which automatically sufficient and necessory knowledge based on the factors of students skills.
+- 👀 I’m interested in developing a AI product which automatically provide sufficient and necessory knowledge based on the factors of students skills.
 - 🌱 I’m currently learning NLP, DL, etc
 - 💞️ I’m looking to collaborate on ...
 - 📫 Reach me at : gowthamds136@gmail.com
