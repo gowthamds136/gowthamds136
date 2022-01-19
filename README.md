@@ -1,7 +1,5 @@
-**About me**
-------------
-Hey 👋, I’m **Gowtham Murali** !
-
+Hey 👋, I’m **Gowtham Murali** (Data Science aspirant with python) !
+--------------------------------------------------------------------
 <a href="https://github.com/gowthamds136">
 <img align="left" alt="Gowtham Murali's GitHub" width="22px" src="http://cdn.onlinewebfonts.com/svg/img_326384.png" />
 </a>
@@ -20,6 +18,9 @@ Hey 👋, I’m **Gowtham Murali** !
 <br />
 <br />
 
+
+**About me**
+------------
 Hi I am an entry level data science aspirant 🚀 from India, 👨 I have 9 years of experience developing mathematics content and solutons while providing E-Learning services, currently working as freelancer on some interns projects, developing end-to-end Master's projects with all cloud like AWS, SQL and productionize the Machine Learning models with Heroku. And I have a passion for learning and sharing my knowledge with others in a way that's as public as possible.
 
 Apart from my research on Artificial intelligence , I enjoy listening music 🎧 and traveling 🏖️ and playing X-Boxgames 🎮.
